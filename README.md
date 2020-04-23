@@ -1,5 +1,8 @@
 # Freznel-Biprism
 
+This simulator was a university project in 2018 in SCAN INSA de Lyon.
+This software was made by Aniis Koodoruth, Bedredin Celina, Laura Schraen and Mei-Lin Grouzelle
+
 ********How To Use********
 
 Double click on "Fresnel Biprism Simulator.exe" or "Fresnel Biprism Simulator.jar"
@@ -39,3 +42,5 @@ There you will find the docs required to understand everything.
 
 For further details, you can follow the source code and comments. By going in 
 the advised order as mentioned in the documentation.
+
+Wavelength is not written by us
