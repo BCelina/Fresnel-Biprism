@@ -1,4 +1,4 @@
-# Freznel-Biprism
+# Fresnel biprism
 
 This simulator was a university project in 2018 in SCAN INSA de Lyon.
 This software was made by Aniis Koodoruth, Bedredin Celina, Laura Schraen and Mei-Lin Grouzelle
